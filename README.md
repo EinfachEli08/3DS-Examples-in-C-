@@ -2,7 +2,7 @@
 
 Examples for 3DS using devkitARM, libctru and citro3d
 
-the original source code was made by the user devkitPro, you can find it here:
+the original source code was made by the user devkitPro and 29 other contributers, you can find it here:
 
 https://github.com/devkitPro/3ds-examples
 
